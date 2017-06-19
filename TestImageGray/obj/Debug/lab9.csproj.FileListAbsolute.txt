@@ -1,0 +1,19 @@
+C:\Users\Stas\Desktop\9\графика 9\TestImageGray\bin\Debug\TestImageGray.exe
+C:\Users\Stas\Desktop\9\графика 9\TestImageGray\bin\Debug\TestImageGray.pdb
+C:\Users\Stas\Desktop\9\графика 9\TestImageGray\obj\Debug\lab9.csprojResolveAssemblyReference.cache
+C:\Users\Stas\Desktop\9\графика 9\TestImageGray\obj\Debug\lab9.Form1.resources
+C:\Users\Stas\Desktop\9\графика 9\TestImageGray\obj\Debug\TestImageGray.Properties.Resources.resources
+C:\Users\Stas\Desktop\9\графика 9\TestImageGray\obj\Debug\lab9.csproj.GenerateResource.Cache
+C:\Users\Stas\Desktop\9\графика 9\TestImageGray\obj\Debug\TestImageGray.exe
+C:\Users\Stas\Desktop\9\графика 9\TestImageGray\obj\Debug\TestImageGray.pdb
+D:\YandexDisk\disk\учеба\жиза\2 курс\4 семестр\9\графика 9\TestImageGray\obj\Debug\TestImageGray.exe
+D:\YandexDisk\disk\учеба\жиза\2 курс\4 семестр\9\графика 9\TestImageGray\obj\Debug\TestImageGray.pdb
+C:\Users\Толик\OneDrive\4 семестр\4 семестр\Орлов (C#)\9\графика 9\TestImageGray\obj\Debug\TestImageGray.exe
+C:\Users\Толик\OneDrive\4 семестр\4 семестр\Орлов (C#)\9\графика 9\TestImageGray\obj\Debug\TestImageGray.pdb
+C:\Users\Толик\OneDrive\4 семестр\4 семестр\Орлов (C#)\9\графика 9\TestImageGray\bin\Debug\TestImageGray.exe
+C:\Users\Толик\OneDrive\4 семестр\4 семестр\Орлов (C#)\9\графика 9\TestImageGray\bin\Debug\TestImageGray.pdb
+C:\Users\Толик\OneDrive\4 семестр\4 семестр\Орлов (C#)\9\графика 9\TestImageGray\obj\Debug\lab9.csprojResolveAssemblyReference.cache
+C:\Users\Толик\OneDrive\4 семестр\4 семестр\Орлов (C#)\9\графика 9\TestImageGray\obj\Debug\lab9.Form1.resources
+C:\Users\Толик\OneDrive\4 семестр\4 семестр\Орлов (C#)\9\графика 9\TestImageGray\obj\Debug\TestImageGray.Properties.Resources.resources
+C:\Users\Толик\OneDrive\4 семестр\4 семестр\Орлов (C#)\9\графика 9\TestImageGray\obj\Debug\lab9.csproj.GenerateResource.Cache
+C:\Users\Толик\OneDrive\4 семестр\4 семестр\Орлов (C#)\9\графика 9\TestImageGray\bin\Debug\TestImageGray.exe.config

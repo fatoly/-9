@@ -1,0 +1,8 @@
+D:\STUDENTS\TestImageGray\TestImageGray\TestImageGray\bin\Release\TestImageGray.exe
+D:\STUDENTS\TestImageGray\TestImageGray\TestImageGray\bin\Release\TestImageGray.pdb
+D:\STUDENTS\TestImageGray\TestImageGray\TestImageGray\obj\Release\ResolveAssemblyReference.cache
+D:\STUDENTS\TestImageGray\TestImageGray\TestImageGray\obj\Release\TestImageGray.Form1.resources
+D:\STUDENTS\TestImageGray\TestImageGray\TestImageGray\obj\Release\TestImageGray.Properties.Resources.resources
+D:\STUDENTS\TestImageGray\TestImageGray\TestImageGray\obj\Release\TestImageGray.csproj.GenerateResource.Cache
+D:\STUDENTS\TestImageGray\TestImageGray\TestImageGray\obj\Release\TestImageGray.exe
+D:\STUDENTS\TestImageGray\TestImageGray\TestImageGray\obj\Release\TestImageGray.pdb
